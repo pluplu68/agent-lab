@@ -16,7 +16,7 @@ Build a task router that classifies user requests into chat, research, or coding
 | Metric | Result |
 |---|---|
 | Route Accuracy | 50.00% (15/30) |
-| False Tool Rate | 27.27% (pending label verification) |
+| False Tool Rate | 30.00% |
 | Average Latency | 0.0352 ms |
 | LLM API Cost | $0.00 |
 
