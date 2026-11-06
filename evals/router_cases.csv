@@ -1,0 +1,31 @@
+text,expected_route,expected_needs_tools
+Hello there,chat,false
+Explain TCP three-way handshake,chat,false
+What is a neural network?,chat,false
+Explain the difference between a chatbot and an agent,chat,false
+What is precision and recall?,chat,false
+What does Monty Python refer to?,chat,false
+Explain how a search engine works,chat,false
+为什么天空是蓝色的？,chat,false
+解释什么是 JSON Schema,chat,false
+Explain the concept of code review,chat,false
+Find the latest research on agent memory,research,true
+Search for recent OpenAI model updates,research,true
+What are today's Agent SDK updates?,research,true
+Find current GPU prices,research,true
+搜索今天最新的 Agent SDK 变化,research,true
+研究本周新的 AI Agent 框架,research,true
+Look up the latest Pydantic release,research,true
+Compare current Python web frameworks,research,true
+Find 2026 AI conference deadlines,research,true
+Search for recent LLM evaluation papers,research,true
+Fix the bug in this Python script,coding,true
+Help me debug my Python code,coding,true
+Write code to parse a CSV file,coding,true
+Implement a binary search function,coding,true
+修复这个 Python 项目测试,coding,true
+写一个排序函数,coding,true
+Review this SQL query for errors,coding,true
+Create unit tests for my API,coding,true
+Refactor this JavaScript function,coding,true
+Optimize my regex pattern,coding,tru
